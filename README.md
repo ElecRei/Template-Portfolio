@@ -19,4 +19,4 @@ Portfolio layout to display work or whatever you want really. Have fun folks! :s
 * ###### 12/17/15 1:17 PM - File uploads to repo! Updated index.html!
 * ###### 12/17/15 3:28 PM - File uploads to repo! (Forced)
 * ###### 12/17/15 3:35 PM - New branch
-* ###### 12/17/15 4:40 PM - File uploads to repo! Added source directory with design files
+* ###### 12/17/15 4:40 PM - *Branch Update @ Expanding-Content* - File uploads to repo! Added source directory with design files
