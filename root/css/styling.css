@@ -99,6 +99,16 @@
                         padding: 16px 0px;
                     }
 
+                    .portfolio_row th:first-child,
+                    .portfolio_row td:first-child {
+                        padding-left: 12px;   
+                    }
+
+                    .portfolio_row th:last-child,
+                    .portfolio_row td:last-child {
+                        padding-right: 12px;   
+                    }
+
                     .portfolio_row th {
                         text-align: left; 
                     }

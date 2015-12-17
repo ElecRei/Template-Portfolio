@@ -53,6 +53,27 @@
                     <td>Links</td>
                 </tr>
             </table>
+            
+            <script>
+                
+                var rows = document.getElementsByClassName('portfolio_row');
+                
+                var max = rows.length;
+                
+                for(var i = 0; i < max; i++) {
+                    
+                    if($('.portfolio_row').not('.indexed')) {
+                        
+                        $(this).addClass('indexed');
+                       
+                    }
+                    else {
+                        console.log('ERROR');   
+                    }
+                    
+                }
+                
+            </script>
         
         </div>
         
