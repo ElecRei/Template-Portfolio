@@ -17,3 +17,4 @@ Portfolio layout to display work or whatever you want really. Have fun folks! :s
 * ###### 12/17/15 11:58 AM - File uploads to repo! Folder structure is set along with additional files like jQuery, jQuery UI and Normalize. Plus a index.html file is setup as well.
 
 * ###### 12/17/15 1:17 PM - File uploads to repo! Updated index.html!
+* ###### 12/17/15 3:28 PM - File uploads to repo! (Forced)
